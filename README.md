@@ -7,21 +7,24 @@
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vi-dev0&style=flat-square&color=yellow"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vi-dev0&style=flat-square&color=blue"></p>
 <p align="center">
-  <samp>The programmer is self-taught. I started with website development and CRM implementation. 
-I have extensive experience in marketing and SEO. At the moment I am studying Python and automating 
-business processes of various organizations in my hometown, creating telegram bots for the development 
-of the <a href="https://t.me/b4dcat404" target="_blank">Telegram channel</a>
+  <samp>I am a passionate programmer with a designer background. I started with graphic and web design,
+worked in agency and freelance managing projects ranging from the onepage site
+to large scale projects such as a vtc application.
+I have extensive experience in project management, UX/UI, and low-level developpement. 
+At the moment I am studying typescript, nestjs, mojo and automation. 
+of the <a href="https://www.linkedin.com/in/ahcene-belhadi/" target="_blank">Linkedin profile</a>
   </samp>
   <br> <br>
 </p>
+
 
 <hr>
 
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python3%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python3%20-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML%20-%2300D9FF.svg?&style=for-the-badge&logo=HTML5&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3%20-%23D14836.svg?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Github%20-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp;&nbsp;
