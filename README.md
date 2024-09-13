@@ -1,10 +1,12 @@
 ## Hi there, I'm Ahcene - aka Kaligrafer 👋 
-### Digital craftsman and 42 student
+### Full stack  developer / Devops / Solo Game Designer
+<p>Developer and web project manager with +5 years of experience, I am passionate about game design, devops, automation and security of production pipelines. I have acquired versatile development skills that allow me to carry out different projects, tasks and responsibilities. I am a team worker, fast-learner who seeks innovative and creative solutions to complex problems.</p>
+
 <p>I code robust low-level and web applications and design meaningful digital experiences</p>
 <p>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
 <br>
 
-### Connect with me:
+### Don't hesitate to connect with me:
 <a href="https://kaligrafer.fr/">kaligrafer.fr</a>
 <br>
 <a href="https://www.linkedin.com/in/ahcene-belhadi/">My linkedin</a>
